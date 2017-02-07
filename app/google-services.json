@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "189366644818",
+    "firebase_url": "https://absensi-a1c94.firebaseio.com",
+    "project_id": "absensi-a1c94",
+    "storage_bucket": "absensi-a1c94.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:189366644818:android:ab5a33cb3e435891",
+        "android_client_info": {
+          "package_name": "com.debam.absensi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "189366644818-hdsd7t0essaf9d4cisrn5pi5ultvq2t5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdWuQdy7qBM4N2iaSF4csuoFduzgOP8kI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

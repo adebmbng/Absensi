@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#f57607">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Help"
+        android:id="@+id/textView3" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="1. aplikasi presensi mahasiswa melakukan login pada Menu Login\n2. aplikasi presensi mahasiswa Dapat melakukan scan QRcode"
+        android:textSize="25dp"
+        android:textColor="#000"
+        android:id="@+id/textView6" />
+</LinearLayout>
